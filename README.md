@@ -134,6 +134,6 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-
+![output](page.png)
 ## Result:
 the program is running
